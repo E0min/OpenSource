@@ -6,7 +6,7 @@
 - LSTM 파일 내부에 있는 kr3.tsv를 적절한 경로에 위치하게 한다.
 
 ## 실행 방법
-0. 필요한 임포트 및 라이브러리 설치
+0. 필요한 라이브러리 설치 및 임포트
 ```python
 !curl -s https://raw.githubusercontent.com/teddylee777/machine-learning/master/99-Misc/01-Colab/mecab-colab.sh | bash
 !pip install gensim

@@ -3,7 +3,7 @@
 - Tensorflow 2.x
 - koNLPy
 - 코랩에서 진행함
-- LSTM 파일 내부에 있는 kr3.tsv를 적절한 경로에 위치하게 한다.
+- 다운받은 kr3.tsv를 적절한 경로에 위치하게 한다.
 
 ## 실행 방법
 0. KoNLPy설치
